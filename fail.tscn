@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://d0dxa3bvhtr6d"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+text = "You fell!
+Restart the game to try again"
